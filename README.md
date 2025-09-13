@@ -61,17 +61,20 @@ This system aims to:
 Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation --> Deployment (Gradio)
 
 
-## ⚙️ Installation & Setup  
+## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository
+
 ```bash
-git clone https://github.com/your-username/crop-recommendation.git
+git clone [https://github.com/your-username/crop-recommendation.git](https://github.com/your-username/crop-recommendation.git)
 cd crop-recommendation
-
 2️⃣ Install Dependencies
-pip install -r requirements.txt
+Bash
 
+pip install -r requirements.txt
 3️⃣ Run the Application
+Bash
+
 python app.py
 
 
