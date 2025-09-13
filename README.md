@@ -59,4 +59,18 @@ A[Dataset] --> B[Data Preprocessing]
 B --> C[Exploratory Data Analysis]
 C --> D[Model Training]
 D --> E[Model Evaluation]
-E --> F[Deployment with Gradio] 
+E --> F[Deployment with Gradio]
+
+## ⚙️ Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/crop-recommendation.git
+cd crop-recommendation
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Application
+python app.py
+
