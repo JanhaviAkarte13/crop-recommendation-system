@@ -1,8 +1,8 @@
-🌿 Smart Crop Recommendation System
+#🌿 **Smart Crop Recommendation System**
 
 🌾 Project Overview
 
-The Smart Crop Recommendation System is a machine learning-based project designed to help farmers and agricultural enthusiasts choose the most suitable crop for their soil and weather conditions. By analyzing key parameters like Nitrogen (N), Phosphorous (P), Potassium (K), Temperature, Humidity, pH, and Rainfall, the system predicts the best crop that can be cultivated.
+**The Smart Crop Recommendation System** is a machine learning-based project designed to help farmers and agricultural enthusiasts choose the most suitable crop for their soil and weather conditions. By analyzing key parameters like Nitrogen (N), Phosphorous (P), Potassium (K), Temperature, Humidity, pH, and Rainfall, the system predicts the best crop that can be cultivated.
 
 To improve reliability, the project implements multiple machine learning models including:
 
@@ -92,5 +92,6 @@ Temperature, Humidity, pH, Rainfall
 Select a machine learning model from the dropdown
 
 Click Submit to get crop recommendation
+
 
 The output will display the best-suited crop 🌾
