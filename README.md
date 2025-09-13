@@ -58,6 +58,7 @@ This system aims to:
 ```markdown
 Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation --> Deployment (Gradio)
 
+---
 
 ## ⚙️ Installation & Setup
 
