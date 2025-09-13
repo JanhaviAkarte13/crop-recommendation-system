@@ -55,13 +55,10 @@ This system aims to:
 
 ## 🔄 Project Workflow
 
-```mermaid
-graph LR
-A[Dataset] --> B[Data Preprocessing]
-B --> C[Exploratory Data Analysis]
-C --> D[Model Training]
-D --> E[Model Evaluation]
-E --> F[Deployment with Gradio]
+```markdown
+## 🔄 Project Workflow
+
+Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation --> Deployment (Gradio)
 
 
 ## ⚙️ Installation & Setup  
@@ -76,6 +73,7 @@ pip install -r requirements.txt
 
 3️⃣ Run the Application
 python app.py
+
 
 
 
