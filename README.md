@@ -53,9 +53,8 @@ This system aims to:
 ---
 
 
-## 🔄 Project Workflow
+## ➡️ Project Workflow
 
-```markdown
 Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation --> Deployment (Gradio)
 
 ---
@@ -71,6 +70,7 @@ cd crop-recommendation
 pip install -r requirements.txt
 
 python app.py
+
 
 
 
