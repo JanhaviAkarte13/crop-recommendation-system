@@ -1,4 +1,4 @@
-#🌿 **Smart Crop Recommendation System**
+# 🌿 Smart Crop Recommendation System   <!-- H1 -->
 
 🌾 Project Overview
 
@@ -95,3 +95,4 @@ Click Submit to get crop recommendation
 
 
 The output will display the best-suited crop 🌾
+
