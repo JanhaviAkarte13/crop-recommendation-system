@@ -61,10 +61,22 @@ Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation -
 
 ## ⚙️ Installation & Setup
 
-git clone https://github.com/JanhaviAkarte13/crop-recommendation-system.git
+### 1. Clone the Repository
+
+### 2. Install Dependencies
+
+### 3. Run the Application
+
+### 1. Clone the Repository
+
+```bash
+git clone [https://github.com/JanhaviAkarte13/crop-recommendation-system.git](https://github.com/JanhaviAkarte13/crop-recommendation-system.git)
 cd crop-recommendation-system
+
 pip install -r requirements.txt
+
 python app.py
+
 
 
 
