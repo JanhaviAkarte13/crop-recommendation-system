@@ -56,26 +56,21 @@ This system aims to:
 ## 🔄 Project Workflow
 
 ```markdown
-## 🔄 Project Workflow
-
 Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation --> Deployment (Gradio)
 
 
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/your-username/crop-recommendation.git](https://github.com/your-username/crop-recommendation.git)
+git clone https://github.com/your-username/crop-recommendation.git
 cd crop-recommendation
-2. Install Dependencies
-Bash
 
+### 2. Install Dependencies
 pip install -r requirements.txt
-3. Run the Application
-Bash
 
+### 3. Run the Application
 python app.py
+
 
 
 
