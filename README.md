@@ -18,6 +18,7 @@ This system aims to:
 - ✅ Maximize yield efficiency  
 - ✅ Provide data-driven insights to farmers  
 
+---
 
 ## ✨ Features  
 - 🌱 Predicts the best crop based on soil & weather conditions  
@@ -78,7 +79,9 @@ Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation -
     ```
 
    ## 🖥️ Sample Output
-   <img width="1231" height="1288" alt="image" src="https://github.com/user-attachments/assets/12c6bae6-cfd2-4662-ac40-e76c45da6fb9" />
+   <img width="1229" height="1203" alt="image" src="https://github.com/user-attachments/assets/28edca26-0f5e-4692-aa63-c121b6148b3e" />
+
+
 
 
 
