@@ -12,6 +12,7 @@ To improve reliability, the project implements **multiple machine learning model
   - Random Forest
   - K-Nearest Neighbors (KNN)
   - Decision Tree
+
 Users can choose their preferred model and compare performances through accuracy scores and confusion matrices.The project also includes a Gradio-based interactive web interface where users can input soil and weather values and instantly receive crop recommendations.
 
 This system aims to:  
@@ -76,6 +77,7 @@ Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation -
 
    ## 🖥️ Sample Output
    <img width="1229" height="1203" alt="image" src="https://github.com/user-attachments/assets/28edca26-0f5e-4692-aa63-c121b6148b3e" />
+
 
 
 
