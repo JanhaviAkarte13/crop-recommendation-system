@@ -1,4 +1,5 @@
 # 🌿 Smart Crop Recommendation System   <!-- H1 -->
+---
 
 ## 📌 Project Overview                  <!-- H2 -->
 
@@ -46,9 +47,6 @@ This system aims to:
   - Temperature, Humidity, pH, Rainfall  
   - Label (Crop Name)  
 
-> ⚠️ The dataset is **not included** in this repository.  
-> Please download it from Kaggle and place it in your project folder before running the code.  
-
 ---
 
 
@@ -78,6 +76,7 @@ Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation -
 
    ## 🖥️ Sample Output
    <img width="1229" height="1203" alt="image" src="https://github.com/user-attachments/assets/28edca26-0f5e-4692-aa63-c121b6148b3e" />
+
 
 
 
