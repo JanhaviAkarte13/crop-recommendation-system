@@ -77,6 +77,10 @@ Dataset --> Data Preprocessing --> EDA --> Model Training --> Model Evaluation -
     python app.py
     ```
 
+   ## 🖥️ Sample Output
+   <img width="1231" height="1288" alt="image" src="https://github.com/user-attachments/assets/12c6bae6-cfd2-4662-ac40-e76c45da6fb9" />
+
+
 
 
 
